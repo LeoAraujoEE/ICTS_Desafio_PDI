@@ -7,7 +7,7 @@ HDCP é a sigla para “High-bandwidth Digital Content Protection” e trata-se 
 
 - O gerador de sinal HDMI produz uma imagem em color bar e um OSD (On-screen display) que contém os status do HDCP e do EDID (Extended Display Identification Data) podendo ser OK e/ou NG (No Good) como mostrado na imagem abaixo:
 
-![Exemplo](../imagens/2.jpg)
+![Exemplo](https://github.com/LeoAraujoEE/ICTS_Desafio_PDI/blob/master/imagens/2.jpg?raw=true)
 
 ### 1. Escreva um algoritmo em Python que identifique os textos presente em uma imagem fornecida como entrada e gere como saída uma tupla que informe se a palavra OK se encontra ou não na imagem.
 
