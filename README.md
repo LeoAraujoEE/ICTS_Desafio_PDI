@@ -28,7 +28,7 @@ HDCP é a sigla para “High-bandwidth Digital Content Protection” e trata-se 
     - Determinada a ROI, foi possível utilizar a ferramenta Tesseract de reconhecimento de caracteres para determinar o que estava escrito e localizar os OKs;
     - Determinada a posição dos OKs a determinação dos status HDCP e EDID se torna trivial;
     
-# Observações:
+### 3. Observações:
 
 - A detecção não é infalível, de modo que imagens com baixa qualidade levam a falhas na detecção do OK pela máscara criada ou na detecção do texto pelo OCR.
     - Nessas situações o rótulo NG (Not Good) é atribuído ao status correspondente;
